@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a passionate software engineer with a primary focus on Android development. Although my expertise lies in Android, I also possess experience in iOS development and backend programming using Java and Kotlin. I'm always ready to adapt to new technologies and explore different tech stacks.
+
+Throughout my journey, I've had the opportunity to contribute to various open-source projects, leveraging my skills to make a positive impact on the developer community. Additionally, I have co-created the [@hexascribe](https://github.com/hexascribe) organization, which serves as a platform for me to create and share my own open-source projects.
+
+
 <!--
 **osugikoji/osugikoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
